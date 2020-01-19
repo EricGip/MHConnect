@@ -10,10 +10,10 @@ While the rate of mental illness is rising, there are even more barriers for tho
 
 ## How to use:
 ----------
-# Local
-$git clone https://github.com/EricGip/MHConnect
-$ cd ./MHConnect/hackathon3
-$ npm install 
-$ npm start
+# Local . 
+$git clone https://github.com/EricGip/MHConnect . 
+$ cd ./MHConnect/hackathon3 . 
+$ npm install   
+$ npm start . 
 
 
