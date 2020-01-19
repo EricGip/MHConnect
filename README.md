@@ -1,5 +1,5 @@
 # MHConnect
-Mental Health Connect - HackDavis 2020 - Full Stack Project with React Front-end, Firebase hosting, and FireStore for database. 
+Mental Health Connect - HackDavis 2020 - Full Stack Project with React Front-end, Firebase backend. 
 
 ## Inspiration
 In America, it’s estimated that 1 out of 5 adults experience mental illness each year,  the rate of depression among teens has increased over 60% in the last 10 years, suicide is now the second leading cause of death of those between 10-34, and federal data estimates 40-70 million Americans to experience depression & less than 50% seek help.. 
