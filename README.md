@@ -9,3 +9,8 @@ Coming from Asian immigrant families, we all grew up around a negative stigma am
 
 While the rate of mental illness is rising, there are even more barriers for those who are seeking  help. In the U.S., 51% of counties do not have a psychiatrist. Also, recently revealed strategies suggest that insurance companies intentionally keep their customers away from getting help which tactics such as not keeping accurate records of psychiatrist, in one study only 26/100 numbers were legit psychiatrist offices. These are insurance referrals have been coined “Ghost Networks”.
 
+#How to use:  
+$git clone https://github.com/EricGip/MHConnect  
+$cd ./MHConnect/hackathon3/     
+$npm install    
+$npm start    
